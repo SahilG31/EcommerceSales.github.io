@@ -1,5 +1,7 @@
 # EcommerceSales.github.io
 Link to visualisation : https://public.tableau.com/app/profile/sahil.ghai/viz/EcommerceAnymoxSales/topcustomersgenderagegroup
+
+
 This is an e-commerce project made by exploring data in SQL containing queries about sales of products, top customers and vendors data.
 The visualisation is done in tableau in form of interactive dashboards.
 
